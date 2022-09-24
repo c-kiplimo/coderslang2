@@ -1,0 +1,1 @@
+export const objects = [ {name:'Collins'},{department:'Compsci'},{amount:2100}];
