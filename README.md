@@ -2,4 +2,7 @@
 
 
 .Tasks on functions in javascript.
+
+
+
 .Objects in javascript.
